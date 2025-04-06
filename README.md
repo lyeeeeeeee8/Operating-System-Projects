@@ -1,5 +1,5 @@
-# NYCU 2024 Autumn: Operating System
-This repository contains the programming assignments for the Fall 2023 Operating Systems course at NYCU, taught by Professor Chun-Feng Wu.
+# NYCU 2024 Fall: Operating System
+This repository contains the programming assignments for the Fall 2024 Operating Systems course at NYCU, taught by Professor Chun-Feng Wu.
 
 | Chapter | Description                    |
 |---------|--------------------------------|
