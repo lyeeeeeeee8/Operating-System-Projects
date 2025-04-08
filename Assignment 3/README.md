@@ -22,10 +22,9 @@ Users can customize the displayed information by writing a specific bitmask to t
 
 ## Directory Structure
 
-- `kfetch_mod/` – Source code for the kernel module
-- `kfetch_test.c` – User-space program to interact with `/dev/kfetch`
+- `kfetch_mod.c` – Source code for the kernel module
+- `kfetch.c` – User-space program to interact with `/dev/kfetch`
 - `Makefile` – Build script for compiling the kernel module and test program
-- `report.pdf` – Detailed documentation of the implementation and usage
 
 ## Usage
 
