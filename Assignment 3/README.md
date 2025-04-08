@@ -3,7 +3,9 @@
 This repository contains the implementation for assignment 3 of the Operating Systems course.
 [View full specification on HackMD](https://hackmd.io/@fLANt9b6TbWx5I3lYKkBow/SysmmarM1l)
 
-![demo](assets/demo.png)
+<p align="left">
+  <img src="assets/demo.png" alt="demo image" width="380"/>
+</p>
 
 ## Overview
 
@@ -37,8 +39,8 @@ Users can customize the displayed information by writing a specific bitmask to t
    ```
 4. Run the user-space test program
    ```
-   gcc -o kfetch_test kfetch_test.c
-   ./kfetch_test
+   gcc -o kfetch kfetch.c
+   ./kfetch
    ```
 6. Unload the module
    ```
